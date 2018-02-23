@@ -1,2 +1,2 @@
-public class Ventilator extends Temperature {
+public class Ventilator extends Humidity {
 }

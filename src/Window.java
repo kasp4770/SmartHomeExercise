@@ -1,2 +1,2 @@
-public class Window {
+public class Window extends Humidity implements UpDown {
 }

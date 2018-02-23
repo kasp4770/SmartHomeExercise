@@ -1,2 +1,2 @@
-public class Radiator {
+public class Radiator extends Temperature implements UpDown{
 }

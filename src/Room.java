@@ -1,2 +1,2 @@
-public interface Room {
+public enum Room {
 }
